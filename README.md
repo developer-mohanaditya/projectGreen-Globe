@@ -1,7 +1,10 @@
 
 # ap062
 Source Code of "**Project Green-Globe**", AP062, InnovateFPGA Design Contest 2021-22.
+
 Link to the project thesis - **https://medium.com/@thoughts.mas/project-green-globe-1a8aed1d3fb7**
+
+Link to the project thesis - **https://medium.com/@mohanadityasadhanala/project-green-globe-1a8aed1d3fb7**
 
 This repository is created to describe the functionality and source code of the "Project Green-Globe" project which is a Customized and Intelligent Watering System for Horticulture. 
 
